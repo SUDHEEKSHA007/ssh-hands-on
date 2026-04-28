@@ -27,6 +27,12 @@ SSH key-based authentication is widely used in cloud platforms to enable secure,
   
 ---
 
+## 🚀 Real-World Relevance
+SSH is widely used in cloud platforms like AWS and Azure to securely connect to virtual machines. 
+This project reflects how engineers manage remote servers in production environments.
+
+---
+
 ## Steps Performed
 
 ### 1. Generated SSH Key
