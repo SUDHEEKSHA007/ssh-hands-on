@@ -1,5 +1,4 @@
-# ssh-practice
-# SSH Setup & Passwordless Login (Hands-on)
+# 🔐 SSH Passwordless Authentication (Hands-on Lab)
 
 ## 🔧 Tools Used
 - Linux (Ubuntu)
@@ -8,9 +7,6 @@
 - Git
 
 ---
-
-## Objective
-Set up SSH key-based authentication and connect without password.
 
 ## Objective
 Set up SSH key-based authentication and connect without password.
