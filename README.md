@@ -1,4 +1,4 @@
-# 🔐 SSH Passwordless Authentication (Hands-on Lab)
+# 🔐 SSH Passwordless Authentication (Linux Hands-on)
 
 ## 🔧 Tools Used
 - Linux (Ubuntu)
