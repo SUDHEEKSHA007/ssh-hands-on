@@ -13,6 +13,20 @@ Set up SSH key-based authentication and connect without password.
 
 ---
 
+## 📌 Why This Project
+This project demonstrates how secure SSH access is implemented in real-world environments. 
+SSH key-based authentication is widely used in cloud platforms to enable secure, passwordless access to servers.
+
+---
+
+## ✅ Outcome
+- Successfully configured passwordless SSH authentication
+- Established secure connection using key-based login
+- Debugged real-world issues including port configuration and permissions
+- Simulated production-like SSH setup
+  
+---
+
 ## Steps Performed
 
 ### 1. Generated SSH Key
