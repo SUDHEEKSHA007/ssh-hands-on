@@ -1,5 +1,9 @@
 # 🔐 SSH Passwordless Authentication (Linux Hands-on)
 
+## 🚀 Project Summary
+Implemented SSH key-based authentication and executed a Node.js application remotely via SSH in a Linux environment.  
+Simulated real-world server access, deployment, and debugging scenarios including port conflicts and permission issues.
+
 > Secure SSH key-based login setup with real-world debugging and configuration
 
 ---
