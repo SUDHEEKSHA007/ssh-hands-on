@@ -27,6 +27,27 @@ SSH key-based authentication is widely used in cloud platforms to enable secure,
 
 ---
 
+## 💡 Skills Demonstrated
+- SSH key-based authentication
+- Linux system operations
+- Debugging (port conflicts, permissions)
+- Remote server access via SSH
+- Node.js application execution
+- Process management (background jobs, killing processes)
+
+---
+
+## 🧪 Output
+Server running on port 3000
+Hello from SSH deployed app
+
+---
+
+## 🚀 Highlight
+Executed a Node.js application remotely via SSH, simulating real-world server deployment and management.
+
+---
+
 ## ⚡ Quick Demo
 
 ```bash
